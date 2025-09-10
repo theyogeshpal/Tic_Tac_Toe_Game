@@ -45,7 +45,7 @@ h4{
   float: right;
   margin-left: 0%;
   font-size: 22px;
-  margin-right: 2rem;
+  padding: 20px;
   margin-bottom: 0rem;
   margin-top: 0%;
   line-height: 2.5rem;
@@ -118,3 +118,4 @@ i{
   justify-content: right;
 
 }
+
